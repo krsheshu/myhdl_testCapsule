@@ -35,6 +35,8 @@ function create_env {
     pip install scipy
     echo "Installing python-opencv"
     pip install opencv-python
+    echo "Installing autopep8"
+    pip install --upgrade autopep8 
     echo "All requirements installed!"
     echo "Deactivating environment! "
     deactivate_env
