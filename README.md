@@ -1,5 +1,4 @@
 # testCapsule 
-
 A project for creating a robust test framework for myhdl workflow
 
 # Installation Prerequisities
