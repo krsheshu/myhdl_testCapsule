@@ -1,6 +1,6 @@
 
-# testCapsule 
-A project for creating a robust test framework for myhdl workflow
+# TestCapsule 
+A project for creating a robust test framework in python for myhdl workflow
 
 # Installation Prerequisities
 
